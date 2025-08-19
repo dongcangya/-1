@@ -1,0 +1,5 @@
+python3
+kivy
+kivy-garden
+android-storage
+plyer
